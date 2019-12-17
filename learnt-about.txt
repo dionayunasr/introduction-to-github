@@ -1,3 +1,4 @@
 what i have learnt:
 - how to create account
 - make a repository
+- how to edit file
