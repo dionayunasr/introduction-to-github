@@ -3,3 +3,4 @@ what i have learnt:
 - make a repository
 - how to edit file (deletion)
 - how to create branch
+- how to solve conflict
